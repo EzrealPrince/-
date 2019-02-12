@@ -14,5 +14,6 @@
 - 都返回promise
 - confirmButtonText 确定按钮文本
 - cancelButtonText 取消按钮文本
-- 
+- type 类型，info、warning、error、success
+- inputPattern 正则，匹配prompt中
 
