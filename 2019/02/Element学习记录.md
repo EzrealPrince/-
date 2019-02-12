@@ -27,4 +27,5 @@
 - title **String** 标题
 - message **String | renderFunction** 正文
 - type **String** 类型
-- position **String** 
+- position **String** 弹出位置，默认为 **top-right**
+- duration **Number** 
