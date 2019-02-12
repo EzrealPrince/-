@@ -9,5 +9,8 @@
 美化了系统自带的**alert、confirm和prompt**，只适合展示较为简单的内容，如果需要弹出复杂的内容，使用**Dialog**
 `
 this.$alert('内容','标题',{
-**confirmButtonText: '确定按钮文本',canllback: 回调函数}
+confirmButtonText: '确定按钮文本',
+canllback: 回调函数
+})
 `
+
