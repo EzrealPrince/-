@@ -1,4 +1,6 @@
 ## Message消息提示
 - 默认调用方法. **this.$message**,可以接受一个字符串也可以接受一个VNode,使用渲染函数
 
-- 可以显示不同状态下的消息，函数参数传入对象，**message** 表示提示文本，**type** 表示提示类型，也可以直接通过message的子方法
+- 可以显示不同状态下的消息，函数参数传入对象，**message** 表示提示文本，**type** 表示提示类型，也可以直接通过**message**的子方法调用
+- **center**属性使文字居中
+- 将**dangerouslyUseHTMLString**
