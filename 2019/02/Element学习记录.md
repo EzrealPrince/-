@@ -12,8 +12,9 @@
 - this.$confirm  
 - this.$prompt
 - 都返回promise
-- confirmButtonText 确定按钮文本
-- cancelButtonText 取消按钮文本
-- type 类型，info、warning、error、success
-- inputPattern 正则，匹配prompt中
+- confirmButtonText **String** 确定按钮文本
+- cancelButtonText **String** 取消按钮文本
+- type 类型 **Stringinfo、warning、error、success
+- inputPattern 正则，匹配prompt中输入格式
+- inputErrorMessage 匹配失败提示
 
