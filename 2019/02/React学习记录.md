@@ -17,4 +17,7 @@
 - componentDidMount() 
 - componentWillUnmount()
 
-## 
+## 事件处理
+1. 事件绑定属性命名使用驼峰式
+2. 应该传入函数名称
+3. 
