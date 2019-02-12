@@ -30,4 +30,5 @@
 - position **String** 弹出位置，默认为 **top-right**
 - duration **Number** 延迟时间，为0时永不关闭
 - offset **Number** 偏移量
-- showClose **Boolean** 
+- showClose **Boolean** 关闭按钮显示控制
+- 
