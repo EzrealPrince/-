@@ -18,4 +18,4 @@
 - inputPattern 正则 **正则**匹配prompt中输入格式
 - inputErrorMessage **String**
  匹配失败提示
-- 
+- 也可以通过渲染函数传入自定义模板
