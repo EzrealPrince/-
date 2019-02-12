@@ -38,4 +38,5 @@
 - v-loading 指令，绑定布尔类型变量
 - element-loading-text 加载文案
 - element-loading-spinner 加载图标类名
+- element-loading-background 背景色
 - 
