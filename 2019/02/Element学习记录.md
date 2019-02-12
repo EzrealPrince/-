@@ -46,4 +46,6 @@
 - 服务方式
 	- this.$loading
 	- 参数为options
-	- 
+	- lock **boolean** 锁定滚动
+	- spinner **String** 图标内容
+	- text **String** 加载
