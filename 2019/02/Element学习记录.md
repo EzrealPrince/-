@@ -45,9 +45,9 @@
 	- v-loading.fullscreen.lock
 - 服务方式
 	- this.$loading
-	- 参数为options
+	- 参数为options，默认全屏
 	- lock **boolean** 锁定滚动
 	- spinner **String** 图标内容
 	- text **String** 加载文案
 	- background **rgba** 背景色
-	- loading.close 关闭
+	- loading.close 关闭加载
