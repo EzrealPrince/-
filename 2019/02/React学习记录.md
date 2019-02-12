@@ -22,4 +22,6 @@
 2. 应该传入函数名称
 3. 不能使用**return false**来组织默认事件，必须使用**preventDefault()**
 4. 类的方法默认不会绑定this，所以需要对时间回调函数绑定this，**this.handle = this.handle.bind(this)**,或者使用其他两种方法代替
-- 属性初始化语法，回调写成箭头函数，在事件绑定里使用
+- 回调写成箭头函数，在事件绑定里使用**onClick={this.handle}**
+- **onclick={(e) => this.handle(e)}**
+- 
