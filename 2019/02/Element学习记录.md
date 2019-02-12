@@ -8,8 +8,9 @@
 ## MessageBox
 美化了系统自带的**alert、confirm和prompt**，只适合展示较为简单的内容，如果需要弹出复杂的内容，使用**Dialog**
 方法与参数
-- this.$alert  提示
-- this.$confirm   
+- this.$alert  
+- this.$confirm  
 - this.$prompt
+- 都
 - 
 
