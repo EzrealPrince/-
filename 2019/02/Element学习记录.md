@@ -25,4 +25,6 @@
 ## Notification通知
 - this.$notify
 - title **String** 标题
-- message **String**
+- message **String | renderFunction** 正文
+- type **String** 类型
+- position **String** 
