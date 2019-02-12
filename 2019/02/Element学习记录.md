@@ -20,3 +20,4 @@
  匹配失败提示
 - 也可以通过渲染函数传入自定义模板
 - dangerouslyUseHTMLString设置为true，文本默认解析为HTML
+- showClose **boolean** 是否
