@@ -8,3 +8,5 @@
 4. babel转译器会把**JSX**转换成==React.createElement==
 
 ## 元素渲染
+1. **setState()**
+- 要更新组件
