@@ -11,6 +11,8 @@
 - this.$alert  
 - this.$confirm  
 - this.$prompt
-- 都
+- 都返回promise
+- confirmButtonText 确定按钮文本
+- cancelButtonText 取消按钮文本
 - 
 
