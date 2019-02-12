@@ -25,4 +25,5 @@
 - 回调写成箭头函数，在事件绑定里使用**onClick={this.handle}**
 - **onclick={(e) => this.handle(e)}**
 5.向事件处理程序传递参数
-- 通过箭头函数调用的方法 **
+- 通过箭头函数调用的方法 **onclick={(e) => this.handle(id,e)}**
+- 通过bind调用的方式**onClick=this.handle(this,id)
