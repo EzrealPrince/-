@@ -5,4 +5,4 @@
 - 字符串使用双引号包裹
 - 表达式使用大括号包裹
 - 默认使用小驼峰命名，**class**变为**className**
-4. JSX
+4. babel转译器会把**JSX**转换成React.createElement
