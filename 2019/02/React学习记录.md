@@ -24,4 +24,4 @@
 4. 类的方法默认不会绑定this，所以需要对时间回调函数绑定this，**this.handle = this.handle.bind(this)**,或者使用其他两种方法代替
 - 回调写成箭头函数，在事件绑定里使用**onClick={this.handle}**
 - **onclick={(e) => this.handle(e)}**
-- 
+5.向事件处理程序传递参数
