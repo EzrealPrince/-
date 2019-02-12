@@ -41,6 +41,9 @@
 	- element-loading-spinner 加载图标类名
 	- element-loading-background 背景色
 	- 覆盖全屏 指令修饰符 fullscreen
-	- 锁定页面滚动 
+	- 锁定页面滚动 修饰符lock
+	- v-loading.fullscreen.lock
 - 服务方式
+	- this.$loading
+	- 参数为options
 	- 
