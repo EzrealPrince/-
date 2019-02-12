@@ -8,6 +8,6 @@
 4. babel转译器会把**JSX**转换成==React.createElement==
 
 ## 元素渲染
-1. **setState()**
+1. **正确的使用状态**
 - 要更新组件状态不能直接修改，必须使用**setState**函数
 - 构造函数是唯一能够初始化**this.state**的地方
