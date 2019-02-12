@@ -50,4 +50,5 @@
 	- spinner **String** 图标内容
 	- text **String** 加载文案
 	- background **rgba** 背景色
+	- target **DOM对象 | String** 若传入字符串，则默认调用document.querySelector获取到对应DOM
 	- loading.close 关闭加载
