@@ -19,7 +19,7 @@
 - inputErrorMessage **String**
  匹配失败提示
 - 也可以通过渲染函数传入自定义模板
-- dangerouslyUseHTMLString设置为true，文本默认解析为HTML
+- dangerouslyUseHTML **String**设置为true，文本默认解析为HTML
 - showClose **boolean** 是否显示关闭按钮
 
 ## Notification通知
@@ -28,7 +28,7 @@
 - message **String | renderFunction** 正文
 - type **String** 类型
 - position **String** 弹出位置，默认为 **top-right**
-- duration **Number** 延迟时间，为0时永不关闭
+- duration **Number** 显示时间，为0时永不关闭
 - offset **Number** 偏移量
 - showClose **Boolean** 关闭按钮显示控制
-- 
+- dangerouslyUseHTML **String**设置为true，文本默认解析为HTML
