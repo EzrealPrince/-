@@ -15,9 +15,9 @@
 - confirmButtonText **String** 确定按钮文本
 - cancelButtonText **String** 取消按钮文本
 - type 类型 **String** info、warning、error、success
-- inputPattern 正则 **正则**匹配prompt中输入格式
+- inputPattern 正则 **regexp**匹配prompt中输入格式
 - inputErrorMessage **String**
  匹配失败提示
 - 也可以通过渲染函数传入自定义模板
 - dangerouslyUseHTMLString设置为true，文本默认解析为HTML
-- showClose **boolean** 是否
+- showClose **boolean** 是否显示关闭按钮
