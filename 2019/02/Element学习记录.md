@@ -40,4 +40,7 @@
 	- element-loading-text 加载文案
 	- element-loading-spinner 加载图标类名
 	- element-loading-background 背景色
-- 
+	- 覆盖全屏 指令修饰符 fullscreen
+	- 锁定页面滚动 
+- 服务方式
+	- 
