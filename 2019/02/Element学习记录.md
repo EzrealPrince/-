@@ -35,3 +35,4 @@
 - onClick 点击时的回调函数
 
 ## Loading加载
+- v-loading 指令，绑定布尔类型变量
