@@ -3,4 +3,6 @@
 
 - 可以显示不同状态下的消息，函数参数传入对象，**message** 表示提示文本，**type** 表示提示类型，也可以直接通过**message**的子方法调用
 - **center**属性使文字居中
-- 将**dangerouslyUseHTMLString**
+- 将**dangerouslyUseHTMLString**设置为true，可以将**message**当作HTML片段处理
+
+#
