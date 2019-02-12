@@ -32,3 +32,6 @@
 - offset **Number** 偏移量
 - showClose **Boolean** 关闭按钮显示控制
 - dangerouslyUseHTML **String**设置为true，文本默认解析为HTML
+- onClick 点击时的回调函数
+
+## Loading加载
