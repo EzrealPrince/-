@@ -48,4 +48,6 @@
 	- 参数为options
 	- lock **boolean** 锁定滚动
 	- spinner **String** 图标内容
-	- text **String** 加载
+	- text **String** 加载文案
+	- background **rgba** 背景色
+	- loading.close 关闭
