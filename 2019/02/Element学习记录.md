@@ -35,8 +35,9 @@
 - onClick 点击时的回调函数
 
 ## Loading加载
-- v-loading 指令，绑定布尔类型变量
-- element-loading-text 加载文案
-- element-loading-spinner 加载图标类名
-- element-loading-background 背景色
+- 指令方式
+	- v-loading 指令，绑定布尔类型变量
+	- element-loading-text 加载文案
+	- element-loading-spinner 加载图标类名
+	- element-loading-background 背景色
 - 
