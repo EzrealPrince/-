@@ -7,4 +7,4 @@
 
 ## MessageBox
 美化了系统自带的**alert、confirm和prompt**，只适合展示较为简单的内容，如果需要弹出复杂的内容，使用**Dialog**
-
+- this.$alert('内容','标题',{**confirmButtonTe}
