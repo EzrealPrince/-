@@ -14,3 +14,5 @@
 - 单项数据流
 - 组件可以使用函数或者类来构造，**state**只存在类声明结构，**props**都可以
 2. 生命周期钩子
+- componentDidMount() 
+- componentWillUnmount()
