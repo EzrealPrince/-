@@ -5,4 +5,5 @@
 - **center**属性使文字居中
 - 将**dangerouslyUseHTMLString**设置为true，可以将**message**当作HTML片段处理
 
-#
+## MessageBox
+美化了系统自带的**alert、confirm和prompt
