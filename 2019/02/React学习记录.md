@@ -41,5 +41,8 @@
 4. **componentDidUpdate()**
 - 紧跟在更新后调用，对于初次的渲染，该方法并不会调用
 - 适合数据改变时发送数据请求
-5. componentWillU
+5. **componentWillUnmount()**
+- 紧挨着组件被卸载和销毁之前调用，适合解绑定时器，取消网络请求，清理订阅等
+- 
+
 
