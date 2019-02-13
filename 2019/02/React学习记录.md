@@ -27,4 +27,6 @@
 5.向事件处理程序传递参数
 - 通过箭头函数调用的方法 **onclick={(e) => this.handle(id,e)}**
 - 通过bind调用的方式**onClick={this.handle(this,id)}**,通过这种方式事件对象隐式传递，而且在所传递参数的后面
-- 
+
+## React生命周期方法
+1. 
