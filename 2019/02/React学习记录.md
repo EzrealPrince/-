@@ -60,7 +60,7 @@
 - 处理焦点、文本选择或者媒体控制
 - 触发强制动画
 - 集成第三方DOM库
-2. 通过**React.createRef()**
+2. 通过**React.createRef()**来创建一个refs，然会通过**ref**属性来获得
 
 
 
