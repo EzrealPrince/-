@@ -35,4 +35,6 @@
 2. **constructor()**
 - 在装载之前被调用，为了初始化局部状态或者绑定事件处理方法到某个实例
 - super(props)需要在所有表达式之前声明
-3. compinentDid
+3. **compinentDidMount()**
+- 紧跟在组建装载后(被插入到树中)调用，要求DOM节点初始化应该放在这里
+- 
