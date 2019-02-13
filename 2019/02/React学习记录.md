@@ -29,5 +29,7 @@
 - 通过bind调用的方式**onClick={this.handle(this,id)}**,通过这种方式事件对象隐式传递，而且在所传递参数的后面
 
 ## React生命周期方法
-1. render()
+1.** render()**
 - 必须方法，纯函数，不应该改变组件状态，且不直接和浏览器交互
+- **shouuldComponentUpdate**返回false，render函数将不会被调用
+2. **constructor()**
