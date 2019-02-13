@@ -33,4 +33,6 @@
 - 必须方法，纯函数，不应该改变组件状态，且不直接和浏览器交互
 - **shouuldComponentUpdate**返回false，render函数将不会被调用
 2. **constructor()**
-- 在装载之前被调用，为了初始化局部状态或者绑定事件处理方法
+- 在装载之前被调用，为了初始化局部状态或者绑定事件处理方法到某个实例
+- super(props)需要在所有表达式之前声明
+3. compinentDid
