@@ -3,4 +3,4 @@
 **_.chunk(Array,ArrayLenth)**
 2. **compact** 将数组中所有强转为boolean类型为false的值去掉
 **_.compact(Array)**
-3. 
+3. **difference** 返回
