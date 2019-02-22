@@ -3,4 +3,6 @@
 **_.chunk(Array,ArrayLenth)**
 2. **compact** 将数组中所有强转为boolean类型为false的值去掉
 **_.compact(Array)**
-3. **difference** 返回
+3. **difference** 返回第一个与后面所有数组中没出现过的item
+**_.difference(Array,
+4. 
