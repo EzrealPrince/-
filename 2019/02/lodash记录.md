@@ -2,4 +2,5 @@
 1. **chunk** 将数组分割成多个,第二个参数为分割后的每个数组的长度
 **_.chunk(Array,ArrayLenth)**
 2. **compact** 将数组中所有强转为boolean类型为false的值去掉
-**_.compa
+**_.compact(Array)**
+3. 
