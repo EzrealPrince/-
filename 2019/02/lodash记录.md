@@ -5,4 +5,6 @@
 **_.compact(Array)**
 3. **difference** 返回第一个与后面所有数组中没出现过的item
 **_.difference(Array,otherArray)**
-4. **_differenceBy** 添加
+4. **_differenceBy** 可以添加比较函数
+**_.differenceBy(array, [values], function || )**
+5. 
