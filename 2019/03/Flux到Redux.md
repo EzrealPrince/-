@@ -19,3 +19,8 @@
 ## 容器组件和傻瓜组件
 容器组件负责和Redux Store进行交互，处于外层
 傻瓜组件只根据当前props进行渲染用户界面，目的是使傻瓜组件没有状态
+
+## React-Redux
+- Provider
+- connect  连接傻瓜组件和
+- 
