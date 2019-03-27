@@ -27,5 +27,6 @@
 # 模块化React和Redux
 ## 代码文件的组织方式
 - 按功能组织，提供模块接口index.js
+- 导出方式应该统一  export 或者  export default
+## 状态树的设计
 - 
-## 
