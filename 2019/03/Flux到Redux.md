@@ -23,7 +23,8 @@
 ## React-Redux
 - Provider  提供包含store的context
 - connect  连接傻瓜组件和容器组件
-
+	- 是一个返回一个高阶组件的函数
+	- 参数为
 # 模块化React和Redux
 ## 代码文件的组织方式
 - 按功能组织，提供模块接口index.js
