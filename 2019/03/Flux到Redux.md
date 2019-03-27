@@ -21,6 +21,6 @@
 傻瓜组件只根据当前props进行渲染用户界面，目的是使傻瓜组件没有状态
 
 ## React-Redux
-- Provider
-- connect  连接傻瓜组件和
+- Provider  提供包含store的context
+- connect  连接傻瓜组件和容器组件
 - 
