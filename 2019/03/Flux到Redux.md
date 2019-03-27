@@ -4,4 +4,9 @@
 # Redux
 ## Action
 ## Store
-## dis
+- createStore()
+- getState()
+- subscribe()
+- unsubscribe()
+- 
+## Reducer
