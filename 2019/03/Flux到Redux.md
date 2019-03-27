@@ -23,4 +23,5 @@
 ## React-Redux
 - Provider  提供包含store的context
 - connect  连接傻瓜组件和容器组件
-- 
+
+# 
