@@ -57,6 +57,7 @@ numberString = 1111
 
 ## 对象的类型 接口
 
-使用
+使用接口（interfaces）来定义对象的类型
+
 
 
