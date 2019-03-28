@@ -34,4 +34,8 @@ let n: null = null;
 ## 任意值
 any
 `
+let myFavoriteNumber: any = 'seven';
+myFavoriteNumber = 7;
+`
+
 
