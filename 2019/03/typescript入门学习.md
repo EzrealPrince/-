@@ -134,5 +134,5 @@ let mySum: (x: number, y: number) => number = function (x: number, y: number): n
 可选参数后不允许出现参数
 
 ### 参数默认值
-
+TypeScript会将添加了默认值的参数
 
