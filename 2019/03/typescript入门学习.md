@@ -212,8 +212,12 @@ xcatliu1[0] = 'Xcat Liu';
 `
 enum Days {Sun, Mon, Tue, Wed, Thu, Fri, Sat};
 console.log(Days["Sun"] === 0); // true
+console.log(Days[0] === "Sun"); // true
 `
-
+### 手动赋值
+`
+enum Days {Sun = 7, Mon = 1, Tue, Wed, Thu, Fri, Sat};
+`
 
 
 
