@@ -21,4 +21,8 @@ let myName: string = 'Tom'
 支持模板字符串
 
 ### 空值
-可以定义一个** void **
+可以定义一个 **void** 类型的函数表示该函数没有返回值
+
+### Null和Undefined
+`
+`
