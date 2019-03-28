@@ -35,3 +35,5 @@
 - 树形解构扁平
 
 # React组件的性能优化
+## shouldComponentUpdate(nextProps, nextStates)
+react-redux 对其实现，
