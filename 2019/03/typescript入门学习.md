@@ -89,6 +89,8 @@ age?: number
 **只读属性**
 要求对象中的某些字段只能在创建的时候被赋值，那么用**readonly**字段来标识
 `
-readonly id: number
+interface Person {
+    readonly id: number
+}
 `
 
