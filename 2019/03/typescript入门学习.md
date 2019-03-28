@@ -154,5 +154,9 @@ function push(array: any[], ...items: any[]) {
 `
 <类型> 值
 `
-
+或者
+`
+值 as 类型
+`
+在tsx语法中必须使用后一种
 
