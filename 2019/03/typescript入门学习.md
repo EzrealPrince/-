@@ -107,3 +107,11 @@ let numbers: Array<number> = [1,2,3,4]
 `
 
 **用接口表示数组**
+`
+interface NumberArray {
+    [index: number]: number;
+}
+let fibonacci: NumberArray = [1, 1, 2, 3, 5];
+`
+**any在数组中的应用**
+表示数组中允许出现任意
