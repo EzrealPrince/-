@@ -47,5 +47,9 @@ myFavoriteNumber = 7;
 ## 联合类型
 表示取值可以为多种类型中的一种
 `
+let numberString: string | number
+numberString = '1111'
+numberString = 1111
 `
+
 
