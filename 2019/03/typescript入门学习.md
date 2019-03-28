@@ -61,5 +61,18 @@ numberString = 1111
 
 接口是对类的一部分行为进行抽象，同事也用于描述对象的形状
 
-接口一般首字母大写，
+接口一般首字母大写，定义的变量比接口少了一些属性是不允许的
+
+`
+interface Person {
+    name: string;
+    age: number;
+}
+
+let tom: Person = {
+    name: 'Tom',
+    age: 25
+};
+`
+
 
