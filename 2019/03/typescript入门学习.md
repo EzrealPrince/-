@@ -32,10 +32,13 @@ let n: null = null;
 2. void类型的变量不能赋值给其他类型
 
 ## 任意值
-any
+**any**
 `
 let myFavoriteNumber: any = 'seven';
 myFavoriteNumber = 7;
 `
-对任意值
+对任意值进行的任何操作，返回的内容类型也为任意值
+
+如果定义变量时未声明类型，则默认被识别为任意值类型
+
 
