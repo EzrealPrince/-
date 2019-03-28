@@ -6,4 +6,7 @@ let createdByBoolean: boolean = Boolean(1);
 let createdByNewBoolean: Boolean = new Boolean(1); //编译报错，使用构造函数创造的对象不是布尔值
 `
 ### 数值类型
-
+`
+let decLiteral: number = 6
+可以直接使用二进制表示法或者八进制表示
+`
