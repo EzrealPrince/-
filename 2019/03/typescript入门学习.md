@@ -15,5 +15,10 @@ let binaryLiteral: number = 0b1010
 会被编译为10进制
 
 ### 字符串
+`
+let myName: string = 'Tom'
+`
+支持模板字符串
 
 ### 空值
+可以定义一个** void **
