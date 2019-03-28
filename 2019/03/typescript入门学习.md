@@ -209,6 +209,11 @@ xcatliu1[0] = 'Xcat Liu';
 
 ## 枚举
 枚举类型用于取值被限制在一定范围内的场景，使用关键字 **enum** 来定义
+`
+enum Days {Sun, Mon, Tue, Wed, Thu, Fri, Sat};
+console.log(Days["Sun"] === 0); // true
+`
+
 
 
 
