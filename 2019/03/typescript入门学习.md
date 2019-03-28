@@ -218,7 +218,7 @@ console.log(Days[0] === "Sun"); // true
 `
 enum Days {Sun = 7, Mon = 1, Tue, Wed, Thu, Fri, Sat};
 `
-
+避免后续枚举值
 
 
 
