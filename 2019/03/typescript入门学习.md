@@ -188,7 +188,14 @@ declare var jQuery: (selector: string) => any;
 给一个类型起个新名字
 
 ## 字符串字面量类型
-yue
+约束用来取值只能时某几个字符串中的一个
+`
+type EventNames = 'click' | 'scroll' | 'mousemove';
+`
+## 元组（Tuple）
+
+
+
 
 
 
