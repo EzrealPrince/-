@@ -182,6 +182,8 @@ declare var jQuery: (selector: string) => any;
 - declare namespace 声明全局对象（含有子属性）
 - interface 和 type 声明全局类型
 
-## n
+## 内置对象
+
+
 
 
