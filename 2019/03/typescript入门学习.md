@@ -127,5 +127,8 @@ let mySum: (x: number, y: number) => number = function (x: number, y: number): n
 `
 
 ### 用接口来定义函数的形状
+约束参数和返回值类型
+
+### 可选参数
 
 
