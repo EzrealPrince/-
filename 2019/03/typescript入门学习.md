@@ -139,5 +139,15 @@ TypeScript会将添加了默认值的参数识别为可选参数
 ### 剩余参数
 
 ...rest 是一个数组，所以可以使用数组的类型来定义
-rest参数只能是
+rest参数只能是最后一个参数
+`
+function push(array: any[], ...items: any[]) {
+    items.forEach(function(item) {
+        array.push(item);
+    });
+}
+`
+### 函数重载
+
+
 
