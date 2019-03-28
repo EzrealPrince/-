@@ -103,4 +103,7 @@ interface Person {
 
 **数组泛型**
 `
-l
+let numbers: Array<number> = [1,2,3,4]
+`
+
+**用接口表示数组**
