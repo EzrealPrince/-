@@ -218,7 +218,11 @@ console.log(Days[0] === "Sun"); // true
 `
 enum Days {Sun = 7, Mon = 1, Tue, Wed, Thu, Fri, Sat};
 `
-避免后续枚举值
+避免后续枚举值的枚举项被覆盖
+
+### 常数项和计算所得项
+
+
 
 
 
