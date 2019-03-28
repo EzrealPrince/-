@@ -51,5 +51,6 @@ let numberString: string | number
 numberString = '1111'
 numberString = 1111
 `
+访问联合类型的属性或方法
 
 
