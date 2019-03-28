@@ -37,5 +37,5 @@ any
 let myFavoriteNumber: any = 'seven';
 myFavoriteNumber = 7;
 `
-
+对任意值
 
