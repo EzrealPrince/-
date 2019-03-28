@@ -150,6 +150,9 @@ function push(array: any[], ...items: any[]) {
 ### 函数重载
 
 ## 类型断言
-可以用来手动指定一个值的
+类型断言（Typpe Assertion）可以用来手动指定一个值的类型
+`
+<类型> 值
+`
 
 
