@@ -175,4 +175,13 @@ declare var jQuery: (selector: string) => any;
 
 可以直接使用@types统一管理第三方库的声明文件
 
+- declare var 声明全局变量
+- declare function 声明全局方法
+- declare class 声明全局类
+- declare enum 声明全局枚举类型
+- declare namespace 声明全局对象（含有子属性）
+- interface 和 type 声明全局类型
+
+## n
+
 
