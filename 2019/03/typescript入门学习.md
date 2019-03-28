@@ -224,7 +224,9 @@ enum Days {Sun = 7, Mon = 1, Tue, Wed, Thu, Fri, Sat};
 `
 enum Color {Red, Green, Blue = "blue".length};
 `
-如果
+如果紧跟在计算所得项后面的时未手动赋值的项，那么就会因为无法获得初始值而报错
+
+
 
 
 
