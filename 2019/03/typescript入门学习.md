@@ -188,6 +188,7 @@ declare var jQuery: (selector: string) => any;
 给一个类型起个新名字
 
 ## 字符串字面量类型
+yue
 
 
 
