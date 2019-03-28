@@ -93,4 +93,7 @@ interface Person {
     readonly id: number
 }
 `
+只读属性的约束是在第一次给对象赋值的时候，而不是第一次给只读属性赋值的时候
+
+## 数组的类型
 
