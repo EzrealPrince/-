@@ -51,6 +51,6 @@ let numberString: string | number
 numberString = '1111'
 numberString = 1111
 `
-访问联合类型的属性或方法
+访问联合类型的属性或方法不确定一个联合类型的变量到底是哪个类型的时候只能访问联合类型的所有类型里
 
 
