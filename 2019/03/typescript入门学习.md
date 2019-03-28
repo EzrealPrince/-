@@ -160,5 +160,5 @@ function push(array: any[], ...items: any[]) {
 `
 在tsx语法中必须使用后一种
 
-
+类断言不是类型转换，断言成一个联合类型中
 
