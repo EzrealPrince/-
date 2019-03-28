@@ -29,5 +29,9 @@ let u: undefined = undefined;
 let n: null = null;
 `
 1. undefined和null是所有类型的子类型，所以可以赋值给任意类型的变量
-2. void
+2. void类型的变量不能赋值给其他类型
+
+## 任意值
+any
+`
 
