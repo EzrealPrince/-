@@ -202,7 +202,9 @@ let xcatliu: [string, number] = ['Xcat Liu', 25];
 let xcatliu1: [string, number];
 xcatliu1[0] = 'Xcat Liu';
 `
-直接
+直接对元组类型的变量进行初始化或者赋值时，需要提供所有元组类型指定的项
+
+
 
 
 
