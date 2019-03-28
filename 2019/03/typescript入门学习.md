@@ -120,5 +120,12 @@ let fibonacci: NumberArray = [1, 1, 2, 3, 5];
 ### 函数声明
 函数声明和函数表达式
 函数必须被约束，需要把输入输出都考虑到，输入多余的或者少于要求的参数是不被允许的
+`
+let mySum: (x: number, y: number) => number = function (x: number, y: number): number {
+    return x + y;
+};
+`
+
+### 用接口来定义函数的形状
 
 
