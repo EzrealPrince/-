@@ -130,5 +130,9 @@ let mySum: (x: number, y: number) => number = function (x: number, y: number): n
 约束参数和返回值类型
 
 ### 可选参数
+可以使用 ？ 来表示可选的参数
+可选参数后不允许出现参数
+
+### 参数默认值
 
 
