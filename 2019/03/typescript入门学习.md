@@ -193,6 +193,7 @@ declare var jQuery: (selector: string) => any;
 type EventNames = 'click' | 'scroll' | 'mousemove';
 `
 ## 元组（Tuple）
+数组合并了相同类型的
 
 
 
