@@ -81,5 +81,7 @@ let tom: Person = {
 age?: number
 `
 **任意属性**
-
+`
+[propName: string]: any
+`
 
