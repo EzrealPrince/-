@@ -8,5 +8,9 @@ let createdByNewBoolean: Boolean = new Boolean(1); //编译报错，使用构造
 ### 数值类型
 `
 let decLiteral: number = 6
-可以直接使用二进制表示法或者八进制表示
+let hexLiteral: number = 0xf00d
+let binaryLiteral: number = 0b1010
 `
+可以直接使用二进制表示法或者八进制表示
+会被编译为10进制
+## 
