@@ -167,5 +167,9 @@ function push(array: any[], ...items: any[]) {
 ## 声明文件
 使用第三方库时需要引用它的声明文件，才能获得对应的代码补全
 
-
+语法：
+`
+declare var jQuery: (selector: string) => any;
+`
+声明文件后缀 .d.ts
 
