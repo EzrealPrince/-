@@ -221,7 +221,10 @@ enum Days {Sun = 7, Mon = 1, Tue, Wed, Thu, Fri, Sat};
 避免后续枚举值的枚举项被覆盖
 
 ### 常数项和计算所得项
-
+`
+enum Color {Red, Green, Blue = "blue".length};
+`
+如果
 
 
 
