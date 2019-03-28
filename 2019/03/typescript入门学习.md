@@ -114,4 +114,7 @@ interface NumberArray {
 let fibonacci: NumberArray = [1, 1, 2, 3, 5];
 `
 **any在数组中的应用**
-表示数组中允许出现任意
+表示数组中允许出现任意类型
+
+## 函数的类型
+### 函数声明
