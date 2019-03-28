@@ -173,3 +173,6 @@ declare var jQuery: (selector: string) => any;
 `
 声明文件后缀 .d.ts
 
+可以直接使用@types统一管理第三方库的声明文件
+
+
