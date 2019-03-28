@@ -193,7 +193,16 @@ declare var jQuery: (selector: string) => any;
 type EventNames = 'click' | 'scroll' | 'mousemove';
 `
 ## 元组（Tuple）
-数组合并了相同类型的
+数组合并了相同类型的对象
+元组合并了不同类型的对象
+
+元组的定义
+`
+let xcatliu: [string, number] = ['Xcat Liu', 25];
+let xcatliu1: [string, number];
+xcatliu1[0] = 'Xcat Liu';
+`
+直接
 
 
 
