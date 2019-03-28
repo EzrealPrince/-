@@ -36,4 +36,4 @@
 
 # React组件的性能优化
 ## shouldComponentUpdate(nextProps, nextStates)
-react-redux 对其实现，
+react-redux 对其实现，浅层比较
