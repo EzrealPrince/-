@@ -40,5 +40,5 @@ react-redux 对其实现，浅层比较
 
 ## React的调和（Reconciliation）
 - key值不能为索引，应该是一个唯一且不会发生变化的值
-- 用reselect提高数据获取性能
+- 用reselect提高数据获取性能，相关状态没有改变则使用缓存结果
 - 
