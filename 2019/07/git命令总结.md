@@ -15,9 +15,9 @@ hand指向的branch不能删除 大写-D强制删除
 
 ## 基本开发流程
 git checkout -b newBranch  //创建一个新分支
-git push origin newBranch
-git checkout master
-git pull
+git push origin newBranch  //当代码编写完成，将代码推送到远程
+git checkout master  //将分支切换到master
+git pull //将head
 git merge newBranch
 git push
 git branch -d newBranch
