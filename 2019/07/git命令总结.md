@@ -26,7 +26,9 @@ hand指向的branch不能删除 大写-D强制删除
 - **~** 在commit的后面加上该符号以及对应的数字，表示在该commit的基础上回退对应数字的commit
 
 ## rebase
-
+**git rebase -i 目标commit**
+**在编辑界面中指定需要操作的 commits 以及操作类型；**
+**操作完成之后用 git rebase --continue 来继续 rebase 过程。**
 
 ## 基本开发流程
 git checkout -b newBranch  //创建一个新分支
