@@ -9,3 +9,5 @@ hand指向的branch不能删除 大写-D强制删除
 ### merge
 从目标 commit 和当前 commit （即 HEAD 所指向的 commit）分叉的位置起，把目标 commit 的路径上的所有 commit 的内容一并应用到当前 commit，然后自动生成一个新的 commit。
 **git merge branchName**
+解决冲突
+
