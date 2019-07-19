@@ -14,6 +14,7 @@ hand指向的branch不能删除 大写-D强制删除
 
 ### log
 **git log -p** 
+**git show commitName**
 
 ## 基本开发流程
 git checkout -b newBranch  //创建一个新分支
