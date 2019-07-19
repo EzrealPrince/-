@@ -21,4 +21,4 @@ git pull //将head指到最新
 git merge newBranch  //合并你所编写的分支
 git push //将合并推送到远程
 git branch -d newBranch  //删除掉你开发完成的分支
-git push origin -d newBranch  //删除掉远程上开发
+git push origin -d newBranch  //删除掉远程上开发完成的分支
