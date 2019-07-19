@@ -23,7 +23,7 @@ hand指向的branch不能删除 大写-D强制删除
 
 ## 偏移符号
 - **^** 在commit后面添加多少个该符号，表示在该commit的基础上向上回退几个commit
-- **~*8
+- **~** 在commit的后面加上该符号以及对应的数字，表示在该commit的基础上回退对应数字的commit
 ## 基本开发流程
 git checkout -b newBranch  //创建一个新分支
 git push origin newBranch  //当代码编写完成，将代码推送到远程
