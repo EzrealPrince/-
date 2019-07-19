@@ -17,6 +17,9 @@ hand指向的branch不能删除 大写-D强制删除
 **git show commitName**
 **git diff --cached** 查看你commit将会提交什么
 
+## commit错误
+将你要修改的文件添加进暂存区然后
+**git commit --amend**
 ## 基本开发流程
 git checkout -b newBranch  //创建一个新分支
 git push origin newBranch  //当代码编写完成，将代码推送到远程
