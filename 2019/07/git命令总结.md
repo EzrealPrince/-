@@ -1,18 +1,18 @@
-### 创建本地分支并切换
+## 创建本地分支并切换
 **git checkout -b branchName**
-### 分支提交  
+## 分支提交  
 只会提交commits以及branch，而不会去修改head
 **git push origin branchName**
-### 删除branch   
+## 删除branch   
 hand指向的branch不能删除 大写-D强制删除
 **git branch -d branchName**
-### merge
+## merge
 从目标 commit 和当前 commit （即 HEAD 所指向的 commit）分叉的位置起，把目标 commit 的路径上的所有 commit 的内容一并应用到当前 commit，然后自动生成一个新的 commit。
 **git merge branchName**
 发生冲突时，会将状态置为【merge冲突待解决】的中间态，然后解决冲突 add commit，如果在发生冲突时想放弃此次merge，使用
 **git merge -abort**
 
-### log
+## log
 **git log -p** 
 **git show commitName**
 **git diff --cached** 查看你commit将会提交什么
@@ -41,6 +41,6 @@ git push origin newBranch  //当代码编写完成，将代码推送到远程
 git checkout master  //将分支切换到master
 git pull //将head指到最新
 git merge newBranch  //合并你所编写的分支
-git push //将合并推送到远程
+git push //将合并推送到远程 
 git branch -d newBranch  //删除掉你开发完成的分支
 git push origin -d newBranch  //删除掉远程上开发完成的分支
