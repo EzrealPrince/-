@@ -2,5 +2,5 @@
 git checkout -b branchName
 ### 分支提交
 git push origin branchName
-### 删除branch
+### 删除branch   hand指向的branch不能删除
 git branch -d branchName
