@@ -24,11 +24,13 @@ hand指向的branch不能删除 大写-D强制删除
 ## 偏移符号
 - **^** 在commit后面添加多少个该符号，表示在该commit的基础上向上回退几个commit
 - **~** 在commit的后面加上该符号以及对应的数字，表示在该commit的基础上回退对应数字的commit
+- **HEAD~2 ===  HEAD^^ === HEAD^1^1 !== HEAD^2**
 
 ## rebase
 **git rebase -i 目标commit**
 **在编辑界面中指定需要操作的 commits 以及操作类型；**
 **操作完成之后用 git rebase --continue 来继续 rebase 过程。**
+
 
 ## 基本开发流程
 git checkout -b newBranch  //创建一个新分支
