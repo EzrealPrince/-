@@ -10,3 +10,5 @@
 	- 声明 @mixin mixinName { 属性 }
 	- 调用 @include mixinName
 	- 可以传输参数，参数可以拥有默认值
+- 样式继承 @extend 选择器名
+- 
