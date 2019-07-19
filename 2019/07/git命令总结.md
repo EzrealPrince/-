@@ -11,3 +11,7 @@ hand指向的branch不能删除 大写-D强制删除
 **git merge branchName**
 发生冲突时，会将状态置为【merge冲突待解决】的中间态，然后解决冲突 add commit，如果在发生冲突时想放弃此次merge，使用
 **git merge -abort**
+
+
+## 基本开发流程
+git checkout -b new
