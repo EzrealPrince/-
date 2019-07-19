@@ -21,6 +21,8 @@ hand指向的branch不能删除 大写-D强制删除
 将你要修改的文件添加进暂存区然后执行
 **git commit --amend**
 
+## 偏移符号
+- 
 ## 基本开发流程
 git checkout -b newBranch  //创建一个新分支
 git push origin newBranch  //当代码编写完成，将代码推送到远程
