@@ -29,6 +29,7 @@ hand指向的branch不能删除 大写-D强制删除
 ## rebase
 **git rebase -i 目标commit**
 **在编辑界面中指定需要操作的 commits 以及操作类型；**
+**git add 笑声  git commit --amend**
 **操作完成之后用 git rebase --continue 来继续 rebase 过程。**
 
 
