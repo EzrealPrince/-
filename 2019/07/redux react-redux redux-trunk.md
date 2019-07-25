@@ -1,5 +1,7 @@
 ## redux
 ### action
+- action是view变化时发出的通知，用来提示state
+- action一般时一个对象，至少需要一个tyoe
 ### reducer
 ### store
 - 保存数据的地方，整个应用的数据容器
