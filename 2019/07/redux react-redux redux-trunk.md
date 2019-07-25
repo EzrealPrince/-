@@ -18,4 +18,5 @@
 
 
 ### reducer的拆分
-- combineReducers
+- combineReducers() 用来将多个子reducer合成一个大的reducer
+- 
