@@ -18,4 +18,4 @@
 
 
 ### reducer的拆分
-
+- combineReducers
