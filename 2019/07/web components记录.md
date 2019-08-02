@@ -1,3 +1,4 @@
 ## 自定义组件
 ### 注册
-window.cus
+window.customElements.difine('my-element',MyElement)
+window.customElements.get('my-element')
