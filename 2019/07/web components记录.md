@@ -6,4 +6,4 @@ window.customElements.get('my-element')
 connectedCallback()   当元素被插入到DOM树的时候将会触发这个方法
 disconnectCallback()   当元素从DOM树中移除的时候将会被调用
 adoptedCallback() 还不是很清楚
-attributeChangedCallback()    每当属性observedAttributes中对应的属性发生改变时，就会调用这个函数
+attributeChangedCallback()    这个方法只有当被保存在observedAttributes数组的属性改变时，才会调用
